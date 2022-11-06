@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!--  <test name="Test1" enabled="true">-->
+<!--    <classes>-->
+<!--      <class name="com.test.testSuite2" />-->
+<!--    </classes>-->
+<!--  </test>-->
+
+<!--  <test name="Test2" enabled="true">-->
+<!--    <classes>-->
+<!--      <class name="com.test.testSuite1"/>-->
+<!--      <class name="com.test.testSuite2"/>-->
+<!--    </classes>-->
+<!--  </test>-->
+
+<!--  <test name="Test3" enabled="true">-->
+<!--    <parameter name="username" value="hoavd" />-->
+<!--    <parameter name="password" value="123456789" />-->
+<!--    <classes>-->
+<!--      <class name="com.test.TestParameterising"/>-->
+<!--    </classes>-->
+<!--  </test>-->
+
+<!--  <test name="Test4" enabled="true">-->
+<!--    <classes>-->
+<!--      <class name="com.test.TestDataProvider"/>-->
+<!--    </classes>-->
+<!--  </test>-->
+
+    <test name="Test1" enabled="true">
+      <classes>
+        <class name="Exercise1.Ex1"/>
+      </classes>
+    </test>
+
+
+</suite>

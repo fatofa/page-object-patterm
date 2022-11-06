@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceLab Sort" parallel="false">
+
+    <listeners>
+        <listener class-name="actions.commons.MethodListener" />
+                <listener class-name="actions.reportConfig.ExtentReportListenerV2" />
+                <listener class-name="actions.reportConfig.AllureTestListener" />
+    </listeners>
+
+
+    <test name="Run on CHROME">
+   <parameter name = "browser" value = "chrome"/>
+   <parameter name = "url" value = "https://www.saucedemo.com/inventory.html"/>
+    <classes>
+      <class name="testcase.com.saucelab.sort.Level_20_Sort_Asc_Desc"/>
+    </classes>
+  </test> 
+  
+
+</suite> 

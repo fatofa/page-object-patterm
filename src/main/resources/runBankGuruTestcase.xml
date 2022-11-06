@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Bank Guru" parallel="tests" thread-count="2">
+
+    <listeners>
+        <listener class-name="actions.commons.MethodListener"/>
+<!--        <listener class-name="org.uncommons.reportng.HTMLReporter"/>-->
+<!--&lt;!&ndash;        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>&ndash;&gt;-->
+<!--        <listeners class-name="actions.reportConfig.ExtentReportListenerV2" />-->
+<!--        <listeners class-name="actions.reportConfig.AllureTestListener" />-->
+    </listeners>
+    <test name="Run on CHROME">
+        <parameter name = "browser" value = "chrome"/>
+        <classes>
+            <class name="testcase.com.bankguru.user.Level_22_Data_Test_04_Data_Driven"/>
+        </classes>
+    </test>
+
+</suite> 

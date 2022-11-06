@@ -1,0 +1,7 @@
+[INFO ] [2022-10-14 23:34:59,484] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 23:35:05,612] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 23:35:05,618] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 23:35:05,756] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 23:35:10,021] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 23:35:11,369] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 23:35:11,526] Post-Condition - Close browser

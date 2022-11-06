@@ -1,0 +1,79 @@
+Chia gồm 5 tầng (layer) level - source file:
+source folder chưa package
+	package chứa class/ interface/ enum (internal file)
+		* test case
+			Chứa những chức năng/ module cần làm automation trong dự án
+				BankGuru:
+					user
+					payment
+					com.bankguru.user
+						Chứa những class test
+							Chứa những test case
+					com.bankguru.payment
+		* tesdata
+			Chứa data test cho toàn bộ tầng testcase
+		* actuions
+			Chứa phần core của framwork
+				commons/ utilities - chung/ công cộng
+					AbstractPage
+						Selenium API Wrapper (hàm wrapper cho tầng pageObject)
+					AbstractTest
+						Hàm dùng chung (hàm wapper cho tầng testcase)
+					Constants
+						Những thông tin dùng chung cho toàn bộ system/ project
+							User/ Pass/ Timeout
+							System/ DB
+			Chứa pagekage pageObjects - chứa những page liên quan đến system đang test
+				Chứa những class - đại diện cho 1 page object nào đó
+					LoginPageObject
+					RegisterPageObject
+					NewCustomerPageObject
+					....
+			Chứa những pagekage khác
+				reportConfig
+				logConfig
+				litenerConfig
+				retryConfig
+				...
+		* interface
+			Chứa những UI/ locator đạ diện cho từng page
+				LoginPageUI
+				RegisterPageUI
+				NewCustomerPageUI
+				....
+		* resoureces
+			Các file liên quan nhưng properties, xml, testng, xlsx,....
+
+			
+			
+			
+- public - cho truy cập
+- biến static - biến tĩnh - để có thể dùng ở 1 class khác mà k cần khởi tạo lại đối tượng - bthg các biến khác phải khởi tạo lại đối tượng rồi mới
+	truy cập qua các hàm/ đối tượng trong class
+- final - hằng số
+
+
+	//Consstructor: Ham khoi tao/ ham dung
+	// - Sẽ được gọi đầu tiên khi class này được khởi tạo
+	// - Hàm khởi tạo không có giá trị trả về
+	// - Hàm khở tạo bắt buộc trùng tên class
+	// - 1 class có thể có nhiều hàm khởi tạo
+	// - Nhiều hàm khởi tạo: Khác nhau bở số lượng tham số hoặc kiểu dữ liệu
+	// -> Tính đã hình
+	// 1 hàm có nhiều hình thái khác nhau
+	
+	
+So sánh Interface và Abstract - cả 2 chỉ cho kế thừa chứ k cho khởi tạo
+- interface(dùng impliment) thì tất cả các hàm thì đều là public static và không có phần thân.
+Nếu có phần thân thì đó là hàm thường. Các biến trong interface được định nghĩa
+là static final.   face thì phải overide lại các menthod
+ở trong interface và 1 class có thể kế thừa nhiều interface
+- abstrac(dùng extend) thì nếu không khai báo thì là defaul và 1 class chỉ có thể kế thừa 1 abstract class
+Các menthod có thể là menthod thường hoặc abstract menthod. và các lớp con khi kế thừa chỉ cần
+overide lại các menthod abstract
+
+
+---
+
+Nếu 1 ô không phải textbox thì nhập dữ liệu vào ntn? - check xem là class gì? 
+Test API sẽ có dữ liệu chuẩn hơn, test api trước sau đó sẽ test API

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on CHROME"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.652">
+  <properties />
+  
+  
+            <testcase name="TC_03_Logout" time="1.583" classname="testcase.testcase.com.bankguru.user.Level_15_Log_Report_HTML" />
+                <testcase name="TC_01_Register_To_System" time="3.352" classname="testcase.testcase.com.bankguru.user.Level_15_Log_Report_HTML" />
+                <testcase name="TC_02_Login_To_System" time="12.717" classname="testcase.testcase.com.bankguru.user.Level_15_Log_Report_HTML" />
+      
+</testsuite>

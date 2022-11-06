@@ -1,0 +1,94 @@
+[INFO ] [2022-10-14 15:45:06,718] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 15:45:11,210] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 15:45:11,217] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 15:45:12,798] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 15:45:13,054] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 15:45:13,891] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 15:45:14,066] Login - Step 01: Get Login Page Url 
+[INFO ] [2022-10-14 15:45:14,937] Login - Step 02: Open Login Page 
+[INFO ] [2022-10-14 15:45:15,014] Login - Step 03: Input UserID/ Password texbox
+[INFO ] [2022-10-14 15:45:15,341] Login - Step 04: Click to Login button
+[INFO ] [2022-10-14 15:45:16,391] Login - Step 05: Verify home page
+[INFO ] [2022-10-14 15:45:16,491] Login - Step 06: Verify Login form undisplay 
+[INFO ] [2022-10-14 15:45:26,564] Logout - Step 01: Click 'Log Out' link
+[INFO ] [2022-10-14 15:45:27,337] Logout - Step 02: Verify Login form displayed
+[INFO ] [2022-10-14 15:45:38,465] Post-Condition - Close browser
+[INFO ] [2022-10-14 16:00:17,235] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 16:00:17,235] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 16:00:32,193] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 16:00:32,199] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 16:00:35,732] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 16:00:35,740] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 16:00:36,549] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 16:00:36,914] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 16:00:38,279] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 16:00:38,434] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 16:00:39,533] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 16:00:39,648] Login - Step 01: Get Login Page Url 
+[INFO ] [2022-10-14 16:00:40,934] Login - Step 02: Open Login Page 
+[INFO ] [2022-10-14 16:00:40,983]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:00:40,985] Login - Step 03: Input UserID/ Password texbox
+[INFO ] [2022-10-14 16:00:41,215] Login - Step 04: Click to Login button
+[INFO ] [2022-10-14 16:00:41,261] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 16:00:41,460] Login - Step 01: Get Login Page Url 
+[INFO ] [2022-10-14 16:00:42,877] Login - Step 02: Open Login Page 
+[INFO ] [2022-10-14 16:00:42,927]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:00:42,927] Login - Step 03: Input UserID/ Password texbox
+[INFO ] [2022-10-14 16:00:43,241] Login - Step 04: Click to Login button
+[INFO ] [2022-10-14 16:00:44,315] Login - Step 05: Verify home page
+[INFO ] [2022-10-14 16:00:44,400]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-14 16:00:44,400] Login - Step 06: Verify Login form undisplay 
+[INFO ] [2022-10-14 16:00:48,793] Login - Step 05: Verify home page
+[INFO ] [2022-10-14 16:00:48,871]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-14 16:00:48,871] Login - Step 06: Verify Login form undisplay 
+[INFO ] [2022-10-14 16:00:54,450]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:00:54,451] Logout - Step 01: Click 'Log Out' link
+[INFO ] [2022-10-14 16:00:55,752] Logout - Step 02: Verify Login form displayed
+[INFO ] [2022-10-14 16:00:56,683] Post-Condition - Close browser
+[INFO ] [2022-10-14 16:00:58,936]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:00:58,937] Logout - Step 01: Click 'Log Out' link
+[INFO ] [2022-10-14 16:01:00,283] Logout - Step 02: Verify Login form displayed
+[INFO ] [2022-10-14 16:01:00,977] Post-Condition - Close browser
+[INFO ] [2022-10-14 16:20:07,162] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 16:20:11,795] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 16:20:11,802] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 16:20:13,413] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 16:20:13,661] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 16:20:14,555] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 16:20:14,712] Login - Step 01: Get Login Page Url 
+[INFO ] [2022-10-14 16:20:15,595] Login - Step 02: Open Login Page 
+[INFO ] [2022-10-14 16:20:15,656]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:20:15,659] Login - Step 03: Input UserID/ Password texbox
+[INFO ] [2022-10-14 16:20:16,069] Login - Step 04: Click to Login button
+[INFO ] [2022-10-14 16:20:17,082] Login - Step 05: Verify home page
+[INFO ] [2022-10-14 16:20:17,151]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:20:17,151] Login - Step 06: Verify Login form undisplay 
+[INFO ] [2022-10-14 16:20:27,216]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:20:27,217] Logout - Step 01: Click 'Log Out' link
+[INFO ] [2022-10-14 16:20:28,047] Logout - Step 02: Verify Login form displayed
+[INFO ] [2022-10-14 16:20:28,966] Post-Condition - Close browser
+[INFO ] [2022-10-14 16:23:05,268] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 16:23:09,594] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 16:23:09,600] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 16:23:11,133] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 16:23:11,344] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 16:23:12,162] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 16:23:12,352] Login - Step 01: Get Login Page Url 
+[INFO ] [2022-10-14 16:23:13,211] Login - Step 02: Open Login Page 
+[INFO ] [2022-10-14 16:23:13,264]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:23:13,267] Login - Step 03: Input UserID/ Password texbox
+[INFO ] [2022-10-14 16:23:13,649] Login - Step 04: Click to Login button
+[INFO ] [2022-10-14 16:23:14,675] Login - Step 05: Verify home page
+[INFO ] [2022-10-14 16:23:14,745]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:23:14,746] Login - Step 06: Verify Login form undisplay 
+[INFO ] [2022-10-14 16:23:24,818]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-14 16:23:24,819] Logout - Step 01: Click 'Log Out' link
+[INFO ] [2022-10-14 16:23:25,545] Logout - Step 02: Verify Login form displayed
+[INFO ] [2022-10-14 16:23:26,451] Post-Condition - Close browser
+[INFO ] [2022-10-14 23:34:59,484] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 23:35:05,612] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 23:35:05,618] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 23:35:05,756] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 23:35:10,021] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 23:35:11,369] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 23:35:11,526] Post-Condition - Close browser

@@ -1,0 +1,12 @@
+{
+  "fullName" : "Donal Trumps",
+  "email" : "trumppp",
+  "street" : "35 Address",
+  "city" : "San Francisco",
+  "phone" : "0877785558",
+  "bankGuruInfoCard" : {
+    "visa" : "4221121221212121",
+    "date" : "12/26",
+    "cvv" : "996"
+  }
+}

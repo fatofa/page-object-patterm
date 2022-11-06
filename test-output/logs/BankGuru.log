@@ -1,0 +1,28 @@
+[INFO ] [2022-10-14 23:39:14,487] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-14 23:39:21,496] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-14 23:39:21,502] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-14 23:39:21,643] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-14 23:39:26,158] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-14 23:39:27,544] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-14 23:39:27,703] Post-Condition - Close browser
+[INFO ] [2022-10-15 16:23:49,475] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-15 16:23:55,709] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-15 16:23:55,716] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-15 16:23:55,884] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-15 16:23:59,421] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-15 16:24:00,742] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-15 16:24:00,914] Post-Condition - Close browser
+[INFO ] [2022-10-15 16:30:49,702] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-15 16:30:55,869] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-15 16:30:55,875] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-15 16:30:56,028] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-15 16:31:12,133] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-15 16:31:13,577] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-15 16:31:13,767] Post-Condition - Close browser
+[INFO ] [2022-10-15 16:32:13,817] Pre-Condition - Open browser and navigate to app Url
+[INFO ] [2022-10-15 16:32:20,057] Register - Step 01: Get Login Page Url
+[INFO ] [2022-10-15 16:32:20,065] Register - Step 02: Click to 'here' link
+[INFO ] [2022-10-15 16:32:20,249] Register - Step 03: Input to Email texbox
+[INFO ] [2022-10-15 16:32:23,611] Register - Step 04: Click to Submit button
+[INFO ] [2022-10-15 16:32:24,998] Register - Step 05: Get UserID/ Password infomation
+[INFO ] [2022-10-15 16:32:25,181] Post-Condition - Close browser

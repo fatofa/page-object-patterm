@@ -1,0 +1,125 @@
+INFO  | 2022-10-28 09:32:23 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:beforeClass:33) - Pre-Condition - Open browser and navigate to app Url
+INFO  | 2022-10-28 09:32:24 | [TestNG-tests-1] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:resolveDriverVersion:958) - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO  | 2022-10-28 09:32:24 | [TestNG-tests-1] bonigarcia.wdm.WebDriverManager (WebDriverManager.java:exportDriver:1013) - Exporting webdriver.chrome.driver as C:\Users\hoavd\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+INFO  | 2022-10-28 09:32:31 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:beforeClass:38) - Pre-Condition - Step 01: Get Login Page Url
+INFO  | 2022-10-28 09:32:31 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:beforeClass:41) - Pre-Condition - Step 02: Click to 'here' link
+INFO  | 2022-10-28 09:32:34 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_01_Register_To_System:48) - Register - Step 01: Input to Email texboxtrumppp801@hotmail.com
+INFO  | 2022-10-28 09:32:34 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_01_Register_To_System:51) - Register - Step 02: Click to Submit button
+INFO  | 2022-10-28 09:32:36 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_01_Register_To_System:54) - Register - Step 03: Get UserID/ Password infomation
+INFO  | 2022-10-28 09:32:36 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_02_Login_To_System:61) - Login - Step 01: Get Login Page Url 
+INFO  | 2022-10-28 09:32:40 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_02_Login_To_System:65) - Login - Step 02: Open Login Page 
+INFO  | 2022-10-28 09:32:41 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:checkTrue:206) -  -------------------------- PASSED -------------------------- 
+INFO  | 2022-10-28 09:32:41 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_02_Login_To_System:68) - Login - Step 03: Input UserID/ Password texbox
+INFO  | 2022-10-28 09:32:41 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_02_Login_To_System:72) - Login - Step 04: Click to Login button
+INFO  | 2022-10-28 09:32:43 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_02_Login_To_System:76) - Login - Step 05: Verify home page
+INFO  | 2022-10-28 09:32:43 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:checkEquals:251) -  -------------------------- PASSED -------------------------- 
+INFO  | 2022-10-28 09:32:43 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_03_New_Customer:82) - New Customer - Step 01: Open New Customer Page
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_03_New_Customer:86) - New Customer - Step 02: Input to Full Name Text box with: Donal Trumps
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_03_New_Customer:89) - New Customer - Step 03: Input to Street Text box with: 35 Address
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_03_New_Customer:92) - New Customer - Step 04: Input to Phone Text box with:0877785558
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:TC_03_New_Customer:95) - New Customer - Step 05: Input to City Text box with: San Francisco
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/v4/ 26 Mixed Content: The page at 'https://demo.guru99.com/v4/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/ 26 Mixed Content: The page at 'https://demo.guru99.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/access.php?uid=mngr450849%20&%20pass=hUpupEq%20&%20email=trumppp801@hotmail.com 17 Mixed Content: The page at 'https://demo.guru99.com/access.php?uid=mngr450849%20&%20pass=hUpupEq%20&%20email=trumppp801@hotmail.com' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/v4/ 26 Mixed Content: The page at 'https://demo.guru99.com/v4/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 ()
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/v4/manager/Managerhomepage.php 17 Mixed Content: The page at 'https://demo.guru99.com/v4/manager/Managerhomepage.php' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://demo.guru99.com/v4/manager/addcustomerpage.php - Mixed Content: The page at 'https://demo.guru99.com/v4/manager/addcustomerpage.php' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'. This request has been blocked; the content must be served over HTTPS.
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pre_pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagmanager.com/gtag/js?id=UA-1248015-24 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://www.googletagservices.com/tag/js/gpt.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:44 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:showBrowserConsoleLogs:271) -  -------------- SEVERE -------------- 
+https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+INFO  | 2022-10-28 09:32:49 | [TestNG-tests-1] bankguru.user.Level_22_Data_Test_04_Data_Driven (Level_22_Data_Test_04_Data_Driven.java:afterClass:113) - Post-Condition - Close browser
+INFO  | 2022-10-28 09:32:49 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:removeBroserDriver:141) - OS name = windows 10
+INFO  | 2022-10-28 09:32:49 | [TestNG-tests-1] actions.commons.AbstractTest (AbstractTest.java:removeBroserDriver:144) - Driver instance name = chromedriver: chrome on windows (7a39e881f07a3d703cfc3a152612549c)
